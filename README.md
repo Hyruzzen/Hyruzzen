@@ -14,7 +14,7 @@
 ## 🧑‍💻 About Me
 
 ```yaml
-name: Hyruzzen
+username: Hyruzzen
 role: Developer
 focus:
   - Web Development
@@ -22,8 +22,8 @@ focus:
   - Open Source
 
 currently_learning:
-  - JavaScript
-  - TypeScript
+  - building website by Laravel
+  - AI Agent
   - Backend Development
 
 fun_fact:
