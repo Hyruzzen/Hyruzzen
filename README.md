@@ -1,12 +1,30 @@
-- 👋 Hi, I’m @Hyruzzen
-- 👀 I’m interested in Game mobile legends
-- 🌱 I’m currently learning english
-- 💞️ I’m looking to collaborate on Instagram
-- 📫 How to reach me call with whats app
-- 😄 Pronouns: ...
-- ⚡ Fun fact: Don't Hungry
+<!-- Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Hyruzzen&fontSize=70&fontAlignY=35&animation=fadeIn"/>
 
-<!---
-Hyruzzen/Hyruzzen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+
+# 👋 Hi, I'm Ajam Jamaludin
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Web+Developer;Software+Enthusiast;Open+Source+Learner;Always+Learning+New+Things"/>
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+```yaml
+name: Hyruzzen
+role: Developer
+focus:
+  - Web Development
+  - Software Engineering
+  - Open Source
+
+currently_learning:
+  - JavaScript
+  - TypeScript
+  - Backend Development
+
+fun_fact:
+  - "I love building things from ideas 🚀"
